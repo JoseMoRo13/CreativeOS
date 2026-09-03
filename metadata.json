@@ -1,0 +1,6 @@
+{
+  "name": "CreativeOS",
+  "description": "Asistente de IA especializado en dirección de arte, estrategia de comunicación, branding y dirección creativa con rigor metodológico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
